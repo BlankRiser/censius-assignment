@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Rahul Shah",
+        "designation": "Co Founder"
+    },
+    {
+        "id": 2,
+        "name": "Avni Patil",
+        "designation": "Founder"
+    },
+    {
+        "id": 3,
+        "name": "Nadir Hashmi",
+        "designation": "Architect"
+    },
+    {
+        "id": 4,
+        "name": "Raman V",
+        "designation": "Analyst"
+    },
+    {
+        "id": 5,
+        "name": "Manprit Singh",
+        "designation": "DevOps"
+    },
+    {
+        "id": 6,
+        "name": "Mina Thomas",
+        "designation": "Full Stack"
+    },
+    {
+        "id": 7,
+        "name": "Khushbu Parikh",
+        "designation": "Data Scientist"
+    }
+]

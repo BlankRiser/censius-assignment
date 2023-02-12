@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --navbar-width: calc(100%-16rem); /* 100% - 256px */
+  --navbar-height: 4.5rem;
+  --sidebar-width: 16rem; /* 256px */
+  --sidebar-height: calc(100vh - var(--navbar-height)); /* 100vh - 72px */
+}
